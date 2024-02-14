@@ -2,7 +2,7 @@ team: Leopards
 ​
 manager: Nora
 
-coach : mainOscar
+coach : Lupi
 ​
 members:
 - Linda
